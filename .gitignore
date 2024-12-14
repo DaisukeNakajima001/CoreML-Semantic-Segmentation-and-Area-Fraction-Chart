@@ -1,0 +1,8 @@
+TestSegmentation/AI_Models/DETRResnet50SemanticSegmentationF16.mlpackage
+TestSegmentationTests
+TestSegmentationUITests
+*.xcuserdata
+*.xcuserstate
+.DS_Store
+*.log
+*.tar.gz
